@@ -1,0 +1,17 @@
+projectUId: 69d624a0-1dfb-11ea-b7ec-013f75921cfd
+type: Project
+name: Project
+environments:
+  environments: {}
+children: []
+variables: {}
+authData:
+  type: inherit
+settings:
+  proxy:
+    enable: false
+requestData:
+  headers: []
+  disabledInheritedHeaders: []
+  strictSSL: 'No'
+cookies: []
