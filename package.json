@@ -31,7 +31,7 @@
     "react-native-modal": "^11.5.3",
     "react-native-modal-dropdown": "^0.7.0",
     "react-native-navigation": "^4.0.3",
-    "react-native-reanimated": "^1.4.0",
+    "react-native-reanimated": "^2.10.0",
     "react-native-router-flux": "^4.0.6",
     "react-native-rtl-layout": "^0.0.1",
     "react-native-safe-area-context": "^0.6.1",
